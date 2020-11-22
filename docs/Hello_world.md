@@ -40,3 +40,5 @@ You can work with pretty much all usual data structures in programming languages
 1.4. Const
 
 2. Functions
+
+### To see more of it, please consult this [Re-Introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
