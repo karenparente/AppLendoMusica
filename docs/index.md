@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+# The JS Journey
 
-You can use the [editor on GitHub](https://github.com/karenparente/AppLendoMusica/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## This is a tutorial for you to always remember JavaScript 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The app 'Lendo Música' is the way you found for learning the basics of JavaScript using the framework React Native.
 
-### Markdown
+### What is Java Script?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+JS is not Java! JavaScript is a programming language based on the fundamentals of HTML (hyper text markup language) and CSS (cascade styling sheet) - wich are NOT programming languages.
+
+### What is React and React Native?
+
+Ok, so these are both frameworks, from the developers of facebook, found to be an easier way of coding for web (React) and - here it comes - NATIVE APPs (React Naive)!! That means you don't have to use Android Studio or XCode to build native apps for android or iOs. You can simply use JS + VSCode and there you go - hybrid code on the way =)
 
 ```markdown
 Syntax highlighted code block
