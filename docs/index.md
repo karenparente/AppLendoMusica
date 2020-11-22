@@ -12,6 +12,9 @@ JS is not Java! JavaScript is a programming language based on the fundamentals o
 
 Ok, so these are both frameworks, from the developers of facebook, found to be an easier way of coding for web (React) and - here it comes - NATIVE APPs (React Naive)!! That means you don't have to use Android Studio or XCode to build native apps for android or iOs. You can simply use JS + VSCode and there you go - hybrid code on the way =)
 
+### First steps 
+To build and run your first JS file, [CLICK HERE](docs: Hello_world.md) 
+
 ```markdown
 Syntax highlighted code block
 
